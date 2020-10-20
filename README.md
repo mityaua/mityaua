@@ -16,6 +16,7 @@
 <a href="https://codepen.io/mityaua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mityaua" height="30" width="40" /></a>
 <a href="https://twitter.com/tara_kot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tara_kot" height="30" width="40" /></a>
 <a href="https://instagram.com/salamifuet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="salamifuet" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/tarakot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://open.spotify.com/user/tarakot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
