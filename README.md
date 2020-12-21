@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/tara_kot" target="blank"><img src="https://img.shields.io/twitter/follow/tara_kot?logo=twitter&style=for-the-badge" alt="tara_kot" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JS, SASS and other**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mityaua?tab=repositories](https://github.com/mityaua?tab=repositories)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mityaua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mityaua" height="30" width="40" /></a>
