@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dmitriy</h1>
-<h3 align="center">Full Stack Front-End Developer (in future 😉)</h3>
+<h3 align="center">Full Stack Developer (in future 😉)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /> </p>
 
