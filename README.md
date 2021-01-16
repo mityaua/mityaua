@@ -17,7 +17,3 @@
 ![Metrics](https://metrics.lecoq.io/mityaua?template=classic&base.header=0&base.metadata=0&activity=1&followup=1&languages=1&stars=1&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Europe%2FKiev&config.animated=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /> </p>
-
-<p align="left"> <a href="https://github.com/mityaua"><img src="https://github-profile-trophy.vercel.app/?username=mityaua" alt="mityaua" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en" alt="mityaua" /></p>
