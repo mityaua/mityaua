@@ -14,6 +14,6 @@
 
 <h3 align="left">What's Going On?:</h3>
 
-![Metrics](https://metrics.lecoq.io/mityaua?template=classic&base.header=0&base.metadata=0&activity=1&followup=1&languages=1&stars=1&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Europe%2FKiev&config.animated=true)
+![Metrics](https://metrics.lecoq.io/mityaua?template=classic&base.metadata=0&followup=1&languages=1&stars=1&stars.limit=4&config.timezone=Europe%2FKiev&config.animated=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /> </p>
