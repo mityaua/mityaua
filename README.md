@@ -15,7 +15,7 @@
 <h3 align="left">What's Going On?:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact" alt="mityaua" /></p>
-<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en" alt="mityaua" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mityaua&" alt="mityaua" /></p>
