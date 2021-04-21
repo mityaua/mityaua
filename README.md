@@ -3,6 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codesandbox.com/mityaua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mityaua" height="30" width="40" /></a>
 <a href="https://codepen.io/mityaua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mityaua" height="30" width="40" /></a>
 <a href="https://instagram.com/salamifuet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="salamifuet" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/tarakot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://open.spotify.com/user/tarakot" height="30" width="40" /></a>
