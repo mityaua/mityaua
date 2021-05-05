@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dmitriy, Full Stack Developer</h1>
+<h1 align="center">Hi, I'm Dmitriy, Full Stack Developer 👨‍💻</h1>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
