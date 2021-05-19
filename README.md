@@ -12,9 +12,9 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en&theme=tokyonight" alt="mityaua" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en&theme=prussian" alt="mityaua" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=tokyonight" alt="mityaua" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=prussian" alt="mityaua" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /> </p>
