@@ -14,8 +14,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en&theme=tokyonight" alt="mityaua" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mityaua&theme=tokyonight" alt="mityaua" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=tokyonight" alt="mityaua" /></p>
 
 
