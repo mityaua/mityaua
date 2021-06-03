@@ -2,8 +2,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://codesandbox.io/u/mityaua"><img src="https://img.shields.io/badge/Codesandbox-black?logo=codesandbox&style=for-the-badge" alt="codesandbox" /></a>
-<a href="https://codepen.io/mityaua"><img src="https://img.shields.io/badge/Codepen-black?logo=codepen&style=for-the-badge" alt="codepen" /></a>
+<a href="https://codesandbox.io/u/mityaua"><img src="https://img.shields.io/badge/Codesandbox-555?logo=codesandbox&style=for-the-badge" alt="codesandbox" /></a>
+<a href="https://codepen.io/mityaua"><img src="https://img.shields.io/badge/Codepen-555?logo=codepen&style=for-the-badge" alt="codepen" /></a>
 <a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" /></a>
 </p>
 
