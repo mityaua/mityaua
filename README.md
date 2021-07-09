@@ -27,6 +27,7 @@ My goal is to participate in thought-provoking projects that will strengthen my 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a> 
+   <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material-555?logo=material-ui&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a> 
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=nodejs&style=for-the-badge" alt="nodejs" title="Node.js" /></a> 
   <a href="https://expressjs.com"> <img src="https://img.shields.io/badge/Express-555?logo=express&style=for-the-badge" alt="express" title="Express" /></a>
