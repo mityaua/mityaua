@@ -15,8 +15,8 @@ My goal is to participate in thought-provoking projects that will strengthen my 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" /></a>
-<a href="https://codesandbox.io/u/mityaua"><img src="https://img.shields.io/badge/Codesandbox-555?logo=codesandbox&style=for-the-badge" alt="codesandbox" /></a>
-<a href="https://codepen.io/mityaua"><img src="https://img.shields.io/badge/Codepen-555?logo=codepen&style=for-the-badge" alt="codepen" /></a>
+<a href="https://t.me/skyup"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" /></a>
+<a href="https://t.me/skyup"><img src="https://img.shields.io/badge/instagram-555?logo=instagram&style=for-the-badge" alt="instagram" /></a>
 </p>
 
 <h2 align="left">My stack:</h2>
@@ -25,6 +25,12 @@ My goal is to participate in thought-provoking projects that will strengthen my 
 
 <h2 align="left">I am interested in:</h2>
 <p align="left"> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="TypeScript" /></a> <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue.js-555?logo=vue&style=for-the-badge" alt="vuejs" title="Vue.js" /></a> <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-555?logo=angular&logoColor=DD0031&style=for-the-badge" alt="angularjs" title="Angular" /></a> <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a> <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a> </a> <a href="https://graphql.org"><img src="https://img.shields.io/badge/Graphql-555?logo=graphql&style=for-the-badge" alt="graphql" title="GraphQL" /></a> <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-555?logo=docker&style=for-the-badge" alt="docker" title="Docker" /></a> <a href="https://gohugo.io/" ><img src="https://img.shields.io/badge/Hugo-555?logo=hugo&style=for-the-badge" alt="hugo" title="Hugo" /></a> <a href="https://jekyllrb.com/"> <img src="https://img.shields.io/badge/Jekyll-555?logo=jekyll&style=for-the-badge" alt="jekyll" title="Jekyll" /></a> <a href="https://jestjs.io/"> <img src="https://img.shields.io/badge/Jest-555?logo=jest&style=for-the-badge" alt="jest" title="Jest" /></a></p>
+
+<h2 align="left">Drafts:</h2>
+<p align="left">
+<a href="https://codesandbox.io/u/mityaua"><img src="https://img.shields.io/badge/Codesandbox-555?logo=codesandbox&style=for-the-badge" alt="codesandbox" /></a>
+<a href="https://codepen.io/mityaua"><img src="https://img.shields.io/badge/Codepen-555?logo=codepen&style=for-the-badge" alt="codepen" /></a>
+</p>
 
 <h3 align="left">Statistics:</h3>
 
