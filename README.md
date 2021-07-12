@@ -1,16 +1,12 @@
 <h1 align="center">Hi, I'm Dmitriy! 👨‍💻</h1>
 
-My specialization is creating UI with HTML / CSS, JavaScript, React.
+✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, React. I have experience in backend building with NodeJS.
 
-I have experience in backend building with NodeJS.
+👷🏼‍♂️ I participated in projects in different roles - as a full stack developer and also as a team lead. Moreover, I have commercial experience as a Project Manager in a digital agency.
 
-I participated in projects in different roles - as a full stack developer and also as a team lead.
+🌱 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
 
-Moreover, I have commercial experience as a Project Manager in a digital agency.
-
-Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
-
-My goal is to participate in thought-provoking projects that will strengthen my knowledge as a front-end or full-stack developer.
+🧠My goal is to participate in thought-provoking projects that will strengthen my knowledge as a front-end or full-stack developer.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
