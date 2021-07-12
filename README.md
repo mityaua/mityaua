@@ -6,7 +6,7 @@
 
 🌱 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
 
-🧠My goal is to participate in thought-provoking projects that will strengthen my knowledge as a front-end or full-stack developer.
+🧠 My goal is to participate in thought-provoking projects that will strengthen my knowledge as a front-end or full-stack developer.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
