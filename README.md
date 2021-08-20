@@ -8,7 +8,7 @@
 
 🧠 My goal is to participate in thought-provoking projects that will strengthen my knowledge as a front-end or full-stack developer.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /></p>
+<img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" />
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
