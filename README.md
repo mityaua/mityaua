@@ -8,6 +8,8 @@
 
 🧠 My goal is to participate in thought-provoking projects that will strengthen my knowledge as a front-end or full-stack developer.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /></p>
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
@@ -64,9 +66,8 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en&theme=nord" alt="mityaua" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en&theme=nord" alt="mityaua" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=nord" alt="mityaua" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=nord" alt="mityaua" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /> </p>
+<p align="center"><img src="https://www.codewars.com/users/rapuha/badges/large" alt="codewars" /></p>
