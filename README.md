@@ -70,4 +70,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=nord" alt="mityaua" /></p>
 
-<p align="center"><img src="https://www.codewars.com/users/mityaua/badges/large" alt="codewars" /></p>
+<p align="center"><a href="https://www.codewars.com/users/mityaua"><img src="https://www.codewars.com/users/mityaua/badges/large" alt="codewars" /></a></p>
