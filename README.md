@@ -40,7 +40,7 @@
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a> 
   <a href="https://babeljs.io/"> <img src="https://img.shields.io/badge/Babel-555?logo=babel&style=for-the-badge" alt="babel" title="Babel" /></a>
   <a href="https://www.chartjs.org"> <img src="https://img.shields.io/badge/Chart.js-555?logo=chartjs&style=for-the-badge" alt="chartjs" title="Chart.js" /></a>
-  <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman.js-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a></p>
+  <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a></p>
 
 
 <h2 align="left">I am interested in:</h2>
