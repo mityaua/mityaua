@@ -2,11 +2,11 @@
 
 ✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, React. I have experience in backend building with NodeJS.
 
-👷🏼‍♂️ I participated in projects in different roles - as a full stack developer and also as a team lead. Moreover, I have commercial experience as a Project Manager in a digital agency.
+👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in a ukrainian digital agency.
 
 🌱 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
 
-🧠 My goal is to participate in thought-provoking projects that will strengthen my knowledge as a front-end or full-stack developer.
+🧠 My goal is to participate in thought-provoking projects that will strengthen my knowledge as a Junior Front-end or Full-stack JS Developer.
 
 <img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" />
 
