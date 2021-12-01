@@ -2,7 +2,7 @@
 
 ✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, React. I have experience in backend building with NodeJS.
 
-👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in a ukrainian digital agency.
+👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in a ukrainian digital agency.
 
 🌱 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
 
