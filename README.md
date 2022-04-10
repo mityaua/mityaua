@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Dmitriy! 👨‍💻</h2>
+<h2 align="center">Hi, I'm Dima! 👨‍💻</h2>
 
 ✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, React, Vue. I have experience in backend building with NodeJS.
 
