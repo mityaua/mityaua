@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Dima! 👨‍💻</h2>
 
-✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, React, Vue. I have experience in backend building with NodeJS.
+✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, VUE, React. I have experience in backend building with NodeJS.
 
 👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in ukrainian digital agency.
 
