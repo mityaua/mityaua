@@ -60,6 +60,7 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-555?logo=docker&style=for-the-badge" alt="docker" title="Docker" /></a> 
   <a href="https://gohugo.io/" ><img src="https://img.shields.io/badge/Hugo-555?logo=hugo&style=for-the-badge" alt="hugo" title="Hugo" /></a> 
   <a href="https://jekyllrb.com/"> <img src="https://img.shields.io/badge/Jekyll-555?logo=jekyll&style=for-the-badge" alt="jekyll" title="Jekyll" /></a>
+  <a href="https://vitejs.dev/"> <img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
 </p>
 
 <h2 align="left">Drafts:</h2>
