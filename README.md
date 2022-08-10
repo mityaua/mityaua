@@ -1,12 +1,10 @@
 <h2 align="center">Hi, I'm Dima! 👨‍💻</h2>
 
-✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, VUE 3 (Composition API, VUEX 4, Vue I18n, Quasar, Vue Test Utils), React. I have experience in backend building with NodeJS.
+✍🏼 My specialization is creating Web Apps with HTML5 / CSS3, JavaScript ES6+, **VUE 3 (Composition API, TypeScript, Quasar, VUEX 4, Vue I18n, Vue Router, Vue Test Utils)**, React. I have experience in backend building with NodeJS.
 
 👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in ukrainian digital agency.
 
-🌱 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
-
-🧠 My goal is to participate in thought-provoking projects that will strengthen my knowledge as a Front-end or Full-stack JS Developer.
+🧠 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships.
 
 👅 English level: Pre-Intermediate
 
