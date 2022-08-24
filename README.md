@@ -67,9 +67,9 @@
 
 <h3 align="left">Statistics:</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en&theme=nord" alt="mityaua" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mityaua&show_icons=true&locale=en&theme=vue-dark" alt="mityaua" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=nord" alt="mityaua" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="mityaua" /></p>
 
 <p align="center"><a href="https://www.codewars.com/users/mityaua"><img src="https://www.codewars.com/users/mityaua/badges/small" alt="codewars" /></a></p>
 
