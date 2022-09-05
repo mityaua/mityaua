@@ -4,7 +4,7 @@
 
 👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in ukrainian digital agency.
 
-🧠 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships.
+🧠 Currently, I am interested in learning other frameworks/libraries. Curious about upgrade courses.
 
 👅 English level: Pre-Intermediate
 
