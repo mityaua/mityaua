@@ -71,6 +71,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="mityaua" /></p>
 
-<p align="center"><a href="https://www.codewars.com/users/mityaua"><img src="https://www.codewars.com/users/mityaua/badges/small" alt="codewars" /></a></p>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /></p>
