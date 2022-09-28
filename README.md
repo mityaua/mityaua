@@ -2,13 +2,13 @@
 
 ✍🏼 My specialization is creating Web Apps with HTML5 / CSS3, JavaScript ES6+, **VUE 3 (Composition API, TypeScript, Quasar, VUEX 4, Vue I18n, Vue Router, Vue Test Utils)**, React. I have experience in backend building with NodeJS.
 
-👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in ukrainian digital agency.
+👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in Ukrainian digital agency.
 
 🧠 Currently, I am interested in learning other frameworks/libraries. Curious about upgrade courses.
 
 👅 English level: Pre-Intermediate
 
-<p align="center">⛔ 🇷🇺 ⛔</p>
+<p align="center">#️⃣RussiaIsATerroristState</p>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
