@@ -25,6 +25,7 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="TypeScript" /></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue-555?logo=vuedotjs&style=for-the-badge" alt="vue" title="Vue" /></a>
   <a href="https://next.vuex.vuejs.org/"><img src="https://img.shields.io/badge/vuex-555?logo=vuedotjs&style=for-the-badge" alt="vuex" title="Vuex" /></a>
+  <a href="https://router.vuejs.org/"><img src="https://img.shields.io/badge/vue_router-555?logo=vuedotjs&style=for-the-badge" alt="vue router" title="Vue Router" /></a>
   <a href="https://quasar.dev/"><img src="https://img.shields.io/badge/quasar-555?logo=quasar&style=for-the-badge" alt="quasar" title="Quasar" /></a> 
   <a href="https://jestjs.io/"> <img src="https://img.shields.io/badge/Jest-555?logo=jest&style=for-the-badge" alt="jest" title="Jest" /></a>
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
