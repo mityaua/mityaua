@@ -48,6 +48,7 @@
 <h2 align="left">I am interested in:</h2>
 <p align="left">
   <a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/nuxt.js-555?logo=nuxtdotjs&style=for-the-badge" alt="nuxt" title="Nuxt" /></a> 
+  <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/pinia-555?logo=vercel&style=for-the-badge" alt="pinia" title="Pinia" /></a> 
   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-555?logo=angular&logoColor=DD0031&style=for-the-badge" alt="angularjs" title="Angular" /></a> 
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
