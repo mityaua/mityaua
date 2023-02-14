@@ -10,7 +10,7 @@
 
 <p align="center">#️⃣RussiaIsATerroristState</p>
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Stay in contact:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 <a href="https://t.me/skyup"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
@@ -45,7 +45,7 @@
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
 </p>
 
-<h2 align="left">I am interested in:</h2>
+<h2 align="left">I'm interested in:</h2>
 <p align="left">
   <a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/nuxt.js-555?logo=nuxtdotjs&style=for-the-badge" alt="nuxt" title="Nuxt" /></a> 
   <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/pinia-555?logo=vercel&style=for-the-badge" alt="pinia" title="Pinia" /></a> 
