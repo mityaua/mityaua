@@ -1,5 +1,7 @@
 <h2 align="center">Hi, I'm Dima! 👨‍💻</h2>
 
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
 ✍🏼 My specialization is creating Web Apps with HTML5 / CSS3, JavaScript ES6+, **VUE 3 (Composition API, TypeScript, Quasar, VUEX 4, Vue I18n, Vue Router, Vue Test Utils)**, React. I have experience in backend building with NodeJS.
 
 👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in Ukrainian digital agency.
@@ -10,7 +12,7 @@
 
 <p align="center">#️⃣RussiaIsATerroristState</p>
 
-<h2 align="left">Stay in contact:</h2>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 <a href="https://t.me/skyup"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
