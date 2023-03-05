@@ -56,9 +56,10 @@
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   <a href="https://graphql.org"><img src="https://img.shields.io/badge/Graphql-555?logo=graphql&style=for-the-badge" alt="graphql" title="GraphQL" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-555?logo=docker&style=for-the-badge" alt="docker" title="Docker" /></a> 
-  <a href="https://gohugo.io/" ><img src="https://img.shields.io/badge/Hugo-555?logo=hugo&style=for-the-badge" alt="hugo" title="Hugo" /></a> 
-  <a href="https://jekyllrb.com/"> <img src="https://img.shields.io/badge/Jekyll-555?logo=jekyll&style=for-the-badge" alt="jekyll" title="Jekyll" /></a>
-  <a href="https://vitejs.dev/"> <img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
+  <a href="https://redis.io/" ><img src="https://img.shields.io/badge/Redis-555?logo=redis&style=for-the-badge" alt="redis" title="Redis" /></a> 
+  <a href="https://www.jetbrains.com/teamcity/"><img src="https://img.shields.io/badge/TeamCity-555?logo=teamcity&style=for-the-badge" alt="teamcity" title="TeamCity" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
+  <a href="https://expressjs.com]"><img src="https://img.shields.io/badge/AWS-555?logo=amazon&style=for-the-badge" alt="amazon" title="Amazon Web Services" /></a>
 </p>
 
 <h2 align="left">Drafts:</h2>
