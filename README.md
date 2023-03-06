@@ -61,7 +61,7 @@
   <a href="https://redis.io/" ><img src="https://img.shields.io/badge/Redis-555?logo=redis&style=for-the-badge" alt="redis" title="Redis" /></a> 
   <a href="https://www.jetbrains.com/teamcity/"><img src="https://img.shields.io/badge/TeamCity-555?logo=teamcity&style=for-the-badge" alt="teamcity" title="TeamCity" /></a>
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
-  <a href="https://expressjs.com]"><img src="https://img.shields.io/badge/AWS-555?logo=amazon&style=for-the-badge" alt="amazon" title="Amazon Web Services" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-555?logo=amazon&style=for-the-badge" alt="amazon" title="Amazon Web Services" /></a>
 </p>
 
 <h2 align="left">Drafts:</h2>
