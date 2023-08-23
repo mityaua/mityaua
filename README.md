@@ -54,6 +54,7 @@
   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-555?logo=angular&logoColor=DD0031&style=for-the-badge" alt="angularjs" title="Angular" /></a> 
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nest.js-555?logo=nestjs&style=for-the-badge" alt="nestjs" title="Nest.js" /></a> 
   <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a> 
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   <a href="https://mariadb.com"><img src="https://img.shields.io/badge/MariaDB-555?logo=MariaDB&style=for-the-badge" alt="mariaDB" title="MariaDB" /></a>
