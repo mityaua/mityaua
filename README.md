@@ -26,25 +26,26 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="TypeScript" /></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue-555?logo=vuedotjs&style=for-the-badge" alt="vue" title="Vue" /></a>
-  <a href="https://next.vuex.vuejs.org/"><img src="https://img.shields.io/badge/vuex-555?logo=vuedotjs&style=for-the-badge" alt="vuex" title="Vuex" /></a>
-  <a href="https://router.vuejs.org/"><img src="https://img.shields.io/badge/vue_router-555?logo=vuedotjs&style=for-the-badge" alt="vue router" title="Vue Router" /></a>
+  <a href="https://next.vuex.vuejs.org"><img src="https://img.shields.io/badge/vuex-555?logo=vuedotjs&style=for-the-badge" alt="vuex" title="Vuex" /></a>
+  <a href="https://router.vuejs.org"><img src="https://img.shields.io/badge/vue_router-555?logo=vuedotjs&style=for-the-badge" alt="vue router" title="Vue Router" /></a>
+  <a href="https://test-utils.vuejs.org"><img src="https://img.shields.io/badge/vue_test_utils-555?logo=vuedotjs&style=for-the-badge" alt="vue test utils" title="Vue Test Utils" /></a>
   <a href="https://quasar.dev/"><img src="https://img.shields.io/badge/quasar-555?logo=quasar&style=for-the-badge" alt="quasar" title="Quasar" /></a> 
   <a href="https://jestjs.io/"> <img src="https://img.shields.io/badge/Jest-555?logo=jest&style=for-the-badge" alt="jest" title="Jest" /></a>
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
-  <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
+  <a href="https://material-ui.com"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
   <a href="https://expressjs.com"> <img src="https://img.shields.io/badge/Express-555?logo=express&style=for-the-badge" alt="express" title="Express" /></a>
-  <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/Mongodb-555?logo=mongodb&style=for-the-badge" alt="mongodb" title="MongoDB" /></a>
+  <a href="https://www.mongodb.com"> <img src="https://img.shields.io/badge/Mongodb-555?logo=mongodb&style=for-the-badge" alt="mongodb" title="MongoDB" /></a>
   <a href="https://www.gnu.org/software/bash/" > <img src="https://img.shields.io/badge/Bash-555?logo=gnubash&style=for-the-badge" alt="bash" title="Bash" /></a> 
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
+  <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
   <a href="https://gulpjs.com"><img src="https://img.shields.io/badge/Gulp-555?logo=gulp&style=for-the-badge" alt="gulp" title="gulp" /></a> 
-  <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-555?logo=parcel&style=for-the-badge" alt="parsel" title="Parsel" /></a> 
   <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a> 
   <a href="https://www.chartjs.org"> <img src="https://img.shields.io/badge/Chart.js-555?logo=chartdotjs&style=for-the-badge" alt="chartjs" title="Chart.js" /></a>
   <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
+  <a href="https://www.jetbrains.com/teamcity/"><img src="https://img.shields.io/badge/TeamCity-555?logo=teamcity&style=for-the-badge" alt="teamcity" title="TeamCity" /></a>
 </p>
 
 <h2 align="left">I'm interested in:</h2>
@@ -61,8 +62,7 @@
   <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-555?logo=postgresql&style=for-the-badge" alt="postgresql" title="PostgreSQL" /></a>
   <a href="https://graphql.org"><img src="https://img.shields.io/badge/Graphql-555?logo=graphql&style=for-the-badge" alt="graphql" title="GraphQL" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-555?logo=docker&style=for-the-badge" alt="docker" title="Docker" /></a> 
-  <a href="https://redis.io/" ><img src="https://img.shields.io/badge/Redis-555?logo=redis&style=for-the-badge" alt="redis" title="Redis" /></a> 
-  <a href="https://www.jetbrains.com/teamcity/"><img src="https://img.shields.io/badge/TeamCity-555?logo=teamcity&style=for-the-badge" alt="teamcity" title="TeamCity" /></a>
+  <a href="https://redis.io/" ><img src="https://img.shields.io/badge/Redis-555?logo=redis&style=for-the-badge" alt="redis" title="Redis" /></a>
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-555?logo=amazon&style=for-the-badge" alt="amazon" title="Amazon Web Services" /></a>
 </p>
