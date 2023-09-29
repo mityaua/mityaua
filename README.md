@@ -27,6 +27,7 @@
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="TypeScript" /></a>
   <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/vue-555?logo=vuedotjs&style=for-the-badge" alt="vue" title="Vue" /></a>
   <a href="https://next.vuex.vuejs.org"><img src="https://img.shields.io/badge/vuex-555?logo=vuedotjs&style=for-the-badge" alt="vuex" title="Vuex" /></a>
+  <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/pinia-555?logo=vercel&style=for-the-badge" alt="pinia" title="Pinia" /></a> 
   <a href="https://router.vuejs.org"><img src="https://img.shields.io/badge/vue_router-555?logo=vuedotjs&style=for-the-badge" alt="vue router" title="Vue Router" /></a>
   <a href="https://test-utils.vuejs.org"><img src="https://img.shields.io/badge/vue_test_utils-555?logo=vuedotjs&style=for-the-badge" alt="vue test utils" title="Vue Test Utils" /></a>
   <a href="https://quasar.dev/"><img src="https://img.shields.io/badge/quasar-555?logo=quasar&style=for-the-badge" alt="quasar" title="Quasar" /></a> 
@@ -51,7 +52,6 @@
 <h2 align="left">I'm interested in:</h2>
 <p align="left">
   <a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/nuxt.js-555?logo=nuxtdotjs&style=for-the-badge" alt="nuxt" title="Nuxt" /></a> 
-  <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/pinia-555?logo=vercel&style=for-the-badge" alt="pinia" title="Pinia" /></a> 
   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-555?logo=angular&logoColor=DD0031&style=for-the-badge" alt="angularjs" title="Angular" /></a> 
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
