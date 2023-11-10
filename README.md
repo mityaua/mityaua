@@ -53,6 +53,7 @@
   <a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/nuxt.js-555?logo=nuxtdotjs&style=for-the-badge" alt="nuxt" title="Nuxt" /></a> 
   <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nest.js-555?logo=nestjs&style=for-the-badge" alt="nestjs" title="Nest.js" /></a> 
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
+  <a href="https://vitest.dev"><img src="https://img.shields.io/badge/vitest-555?logo=vitest&style=for-the-badge" alt="vitest" title="Vitest" /></a>
   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-555?logo=angular&logoColor=DD0031&style=for-the-badge" alt="angularjs" title="Angular" /></a> 
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
