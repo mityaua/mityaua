@@ -30,7 +30,9 @@
   <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/pinia-555?logo=vercel&style=for-the-badge" alt="pinia" title="Pinia" /></a> 
   <a href="https://router.vuejs.org"><img src="https://img.shields.io/badge/vue_router-555?logo=vuedotjs&style=for-the-badge" alt="vue router" title="Vue Router" /></a>
   <a href="https://test-utils.vuejs.org"><img src="https://img.shields.io/badge/vue_test_utils-555?logo=vuedotjs&style=for-the-badge" alt="vue test utils" title="Vue Test Utils" /></a>
-  <a href="https://quasar.dev/"><img src="https://img.shields.io/badge/quasar-555?logo=quasar&style=for-the-badge" alt="quasar" title="Quasar" /></a> 
+  <a href="https://quasar.dev/"><img src="https://img.shields.io/badge/quasar-555?logo=quasar&style=for-the-badge" alt="quasar" title="Quasar" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
+  <a href="https://vitest.dev"><img src="https://img.shields.io/badge/vitest-555?logo=vitest&style=for-the-badge" alt="vitest" title="Vitest" /></a>
   <a href="https://jestjs.io/"> <img src="https://img.shields.io/badge/Jest-555?logo=jest&style=for-the-badge" alt="jest" title="Jest" /></a>
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
@@ -51,9 +53,7 @@
 <h2 align="left">I'm interested in:</h2>
 <p align="left">
   <a href="https://nuxtjs.org/"><img src="https://img.shields.io/badge/nuxt.js-555?logo=nuxtdotjs&style=for-the-badge" alt="nuxt" title="Nuxt" /></a> 
-  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nest.js-555?logo=nestjs&style=for-the-badge" alt="nestjs" title="Nest.js" /></a> 
-  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
-  <a href="https://vitest.dev"><img src="https://img.shields.io/badge/vitest-555?logo=vitest&style=for-the-badge" alt="vitest" title="Vitest" /></a>
+  <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/Nest.js-555?logo=nestjs&style=for-the-badge" alt="nestjs" title="Nest.js" /></a>
   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-555?logo=angular&logoColor=DD0031&style=for-the-badge" alt="angularjs" title="Angular" /></a> 
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
