@@ -1,5 +1,3 @@
-<h2 align="center">Hi, I'm Dima! 👨‍💻</h2>
-
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
 ✍🏼 My specialization is creating Web Apps with HTML5 / CSS3, JavaScript ES6+, **VUE 3 (Composition API, TypeScript, Quasar, VUEX 4, Vue I18n, Vue Router, Vue Test Utils)**, React. I have experience in backend building with NodeJS.
