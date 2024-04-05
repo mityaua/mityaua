@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
-✍🏼 Just creating Web Apps with HTML5 / CSS3, JavaScript ES6+, **VUE 3 (Composition API, TypeScript, Quasar, VUEX 4, Vue I18n, Vue Router, Vue Test Utils)**, React. Some experience in backend building with NodeJS.
+✍🏼 Just creating Web Apps with HTML5 / CSS3, JavaScript ES6+, **VUE 3 (Composition API, TypeScript, Quasar, VUEX, Vue I18n, Vue Router, Vue Test Utils-Jest, Vitest)**, React. Some experience in backend building with NodeJS.
 
 👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in Ukrainian digital agency.
 
