@@ -63,7 +63,8 @@
   <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-555?logo=postgresql&style=for-the-badge" alt="postgresql" title="PostgreSQL" /></a>
   <a href="https://graphql.org"><img src="https://img.shields.io/badge/Graphql-555?logo=graphql&style=for-the-badge" alt="graphql" title="GraphQL" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-555?logo=docker&style=for-the-badge" alt="docker" title="Docker" /></a> 
-  <a href="https://redis.io/" ><img src="https://img.shields.io/badge/Redis-555?logo=redis&style=for-the-badge" alt="redis" title="Redis" /></a>
+  <a href="https://redis.io" ><img src="https://img.shields.io/badge/Redis-555?logo=redis&style=for-the-badge" alt="redis" title="Redis" /></a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr" ><img src="https://img.shields.io/badge/SignalR-555?logo=r&style=for-the-badge" alt="signalr" title="SignalR" /></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-555?logo=amazon&style=for-the-badge" alt="amazon" title="Amazon Web Services" /></a>
 </p>
 
