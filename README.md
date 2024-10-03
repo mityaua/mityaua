@@ -34,7 +34,7 @@
   <a href="https://jestjs.io/"> <img src="https://img.shields.io/badge/Jest-555?logo=jest&style=for-the-badge" alt="jest" title="Jest" /></a>
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
   <a href="https://www.npmjs.com/package/@microsoft/signalr"><img src="https://img.shields.io/badge/SignalR-555?logo=r&style=for-the-badge" alt="signalr" title="SignalR" /></a>
-  <a href="https://material-ui.com"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
+  <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/tailwind-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a> 
   <a href="https://echarts.apache.org/en/index.html"><img src="https://img.shields.io/badge/echarts-555?logo=chartdotjs&style=for-the-badge" alt="Apache ECharts" title="ECharts" /></a>
   <a href="https://expressjs.com"> <img src="https://img.shields.io/badge/Express-555?logo=express&style=for-the-badge" alt="express" title="Express" /></a>
   <a href="https://www.mongodb.com"> <img src="https://img.shields.io/badge/Mongodb-555?logo=mongodb&style=for-the-badge" alt="mongodb" title="MongoDB" /></a>
@@ -58,7 +58,6 @@
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-555?logo=svelte&style=for-the-badge" alt="svelte" title="Svelte" /></a> 
   <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-555?logo=nextdotjs&style=for-the-badge" alt="nextjs" title="Next.js" /></a> 
   <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/Bootstrap-555?logo=bootstrap&style=for-the-badge" alt="bootstrap" title="Bootstrap" /></a> 
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwindcss-555?logo=tailwindcss&style=for-the-badge" alt="Tailwind CSS" title="Tailwind CSS" /></a>
   <a href="https://www.chartjs.org"> <img src="https://img.shields.io/badge/Chart.js-555?logo=chartdotjs&style=for-the-badge" alt="chartjs" title="Chart.js" /></a>
   <a href="https://mariadb.com"><img src="https://img.shields.io/badge/MariaDB-555?logo=MariaDB&style=for-the-badge" alt="mariaDB" title="MariaDB" /></a>
   <a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-555?logo=postgresql&style=for-the-badge" alt="postgresql" title="PostgreSQL" /></a>
