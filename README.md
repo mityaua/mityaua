@@ -2,7 +2,7 @@
 
 ✍🏼 Just creating Web Apps with HTML5 / CSS3+, JavaScript ES6+, **VUE 3 (Composition API, TypeScript, Quasar, VUEX, Vue I18n, Vue Router, Vue Test Utils: Jest + Vitest)**, React. Some experience in backend building with NodeJS.
 
-👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in Ukrainian digital agency.
+👷🏼‍♂️ I participated in group projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in Ukrainian digital agency.
 
 🧠 Currently, I am interested in learning other frameworks/libraries. Curious about upgrade courses.
 
