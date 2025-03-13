@@ -46,7 +46,6 @@
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
   <a href="https://www.jetbrains.com/teamcity/"><img src="https://img.shields.io/badge/TeamCity-555?logo=teamcity&style=for-the-badge" alt="teamcity" title="TeamCity" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
-  <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
   <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
 </p>
 
