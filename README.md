@@ -19,7 +19,7 @@
 <h2 align="left">My stack:</h2>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css&logoColor=663399&style=for-the-badge" alt="css3" title="CSS3" /></a>
   <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-555?logo=sass&style=for-the-badge" alt="sass" title="SASS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="TypeScript" /></a>
