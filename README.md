@@ -1,20 +1,4 @@
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
-
-✍🏼 Just creating bugs with HTML5 / CSS3+, JavaScript ES6+, **VUE 3 (Composition API, TypeScript, Quasar, VUEX, Vue I18n, Vue Router, Vue Test Utils: Jest + Vitest)**, React. Some experience in backend building with NodeJS.
-
-👷🏼‍♂️ I participated in group projects in different roles - as a Full-stack JS Developer and also as a Team lead. Moreover, I have commercial experience as a Project Manager in Ukrainian digital agency.
-
-🧠 Currently, I am interested in learning other frameworks/libraries. Curious about upgrade courses.
-
-👅 English level: Pre-Intermediate
-
-<p align="center">#️⃣RussiaIsATerroristState</p>
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/mityaua/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
-<a href="https://t.me/skyup"><img src="https://img.shields.io/badge/Telegram-555?logo=telegram&style=for-the-badge" alt="telegram" title="Telegram" /></a>
-</p>
+<p align="center">✍🏼 Just creating bugs</p>
 
 <h2 align="left">My stack:</h2>
 <p align="left">
@@ -71,8 +55,5 @@
 <a href="https://codesandbox.io/u/mityaua"><img src="https://img.shields.io/badge/Codesandbox-555?logo=codesandbox&style=for-the-badge" alt="codesandbox" /></a>
 <a href="https://codepen.io/mityaua"><img src="https://img.shields.io/badge/Codepen-555?logo=codepen&style=for-the-badge" alt="codepen" /></a>
 </p>
-
-<h3 align="left">Statistics:</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mityaua&show_icons=true&locale=en&layout=compact&langs_count=6&theme=vue-dark" alt="mityaua" /></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mityaua&label=Profile%20views&color=0e75b6&style=flat" alt="mityaua" /></p>
