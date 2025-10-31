@@ -1,4 +1,4 @@
-<p align="center">✍🏼 Just creating bugs</p>
+<p align="center">Just creating 🐞</p>
 
 <h2 align="left">My stack:</h2>
 <p align="left">
