@@ -29,6 +29,7 @@
   <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>   
   <a href="https://www.jetbrains.com/teamcity/"><img src="https://img.shields.io/badge/TeamCity-555?logo=teamcity&style=for-the-badge" alt="teamcity" title="TeamCity" /></a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/ArgoCD-555?logo=argo&style=for-the-badge" alt="argocd" title="ArgoCD" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
   <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
 </p>
